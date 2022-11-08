@@ -13,6 +13,7 @@
 		04ABF77A291AABDE002F2EB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04ABF778291AABDE002F2EB3 /* Main.storyboard */; };
 		04ABF77C291AABE7002F2EB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04ABF77B291AABE7002F2EB3 /* Assets.xcassets */; };
 		04ABF77F291AABE7002F2EB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04ABF77D291AABE7002F2EB3 /* LaunchScreen.storyboard */; };
+		04ABF787291AB3AB002F2EB3 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 04ABF786291AB3AB002F2EB3 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04ABF77B291AABE7002F2EB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04ABF77E291AABE7002F2EB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04ABF780291AABE7002F2EB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04ABF786291AB3AB002F2EB3 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				04ABF77B291AABE7002F2EB3 /* Assets.xcassets */,
 				04ABF77D291AABE7002F2EB3 /* LaunchScreen.storyboard */,
 				04ABF780291AABE7002F2EB3 /* Info.plist */,
+				04ABF786291AB3AB002F2EB3 /* .gitignore */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04ABF787291AB3AB002F2EB3 /* .gitignore in Resources */,
 				04ABF77F291AABE7002F2EB3 /* LaunchScreen.storyboard in Resources */,
 				04ABF77C291AABE7002F2EB3 /* Assets.xcassets in Resources */,
 				04ABF77A291AABDE002F2EB3 /* Main.storyboard in Resources */,
